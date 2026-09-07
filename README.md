@@ -25,10 +25,10 @@ Sometimes when you are going through the Facebook reels an interesting reel come
 
 ## Screenshots
 ### Step 1
-![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-1.png)
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb-reel-1.png)
 ### Step 2
-![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-2.png)
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb-reel-2.png)
 ### Step 3
-![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-3.png)
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb-reel-3.png)
 ### Step 4
-![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-4.png)
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb-reel-4.png)
