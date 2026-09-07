@@ -5,7 +5,7 @@ A simple JS script which searches the Facebook profile and highlights the reel t
 
 ## Why this was built
 
-Sometimes when you are going through the Facebook reels an interesting reel comes into view but it is divided into parts, sometime Facebook shows the button to go to that reel when we visit the user profile, sometimes it does n't. To handle this issue this script was written with which you can easily search for a Faceboook Reel from the user profile.
+Sometimes when you are going through the Facebook reels an interesting reel comes into view but it is divided into parts, sometime Facebook shows the button to go to that reel when we visit the user profile, sometimes it doesn't. To handle this issue this script was written with which you can easily search for a Faceboook Reel from the user profile.
 
 ## FAQ
 
@@ -21,6 +21,7 @@ Sometimes when you are going through the Facebook reels an interesting reel come
 - The script will start seraching for it and display message in **Console** <br> "**REEL NOT FOUND - SCROLLING FOR MORE**", see **Step 1** image.
 - Once the **Reel** is found <br> "**REEL FOUND!**" message will be displayed in the "Console", see **Step 2** image.
 - On the page it will show the **Reel** with a thick blue border around the **Reel**, see **Step 3** image.
+- If for some reasons **Reel** is not found <br> "**SORRY REEL NOT FOUND!**" message will be displayed in the "Console", see **Step 4** image.
 
 ## Screenshots
 ### Step 1
@@ -29,3 +30,5 @@ Sometimes when you are going through the Facebook reels an interesting reel come
 ![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-2.png)
 ### Step 3
 ![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-3.png)
+### Step 4
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-4.png)
