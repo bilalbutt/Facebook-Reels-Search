@@ -12,9 +12,20 @@ Sometimes when you are going through the Facebook reels an interesting reel come
 ### How to use the script.
 
 - Open the user profile/page.
-- Goto "Reels" tab e,g. (https://www.facebook.com/facebook/reels/).
-- Open browser's "Developers Tools" (Google Chrome/Mozilla Firefox/Microsoft Edge)
-  - Press <kbd>F12</kbd> or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
+- Goto **Reels** tab e,g. **https://www.facebook.com/facebook/reels/**.
+- Open browser's **Developers Tools** (Google Chrome/Mozilla Firefox/Microsoft Edge)
+  - Press "<kbd>F12</kbd>" or "<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>"
 - Copy the script from Github, you can save the script on your system.
-- Open "Console" tab and paste the script and press enter.
-- 
+- Open **Console** tab and paste the script and press <kbd>enter</kbd>.
+- You will see a prompt on the page enter the URL of the **Reel** that you were watching e,g. **https://www.facebook.com/reel/1866144357203537** and Press <kbd>enter</kbd>.
+- The script will start seraching for it and display message in **Console** <br> "**REEL NOT FOUND - SCROLLING FOR MORE**", see **Step 1** image.
+- Once the **Reel** is found <br> "**REEL FOUND!**" message will be displayed in the "Console", see **Step 2** image.
+- On the page it will show the **Reel** with a thick blue border around the **Reel**, see **Step 3** image.
+
+## Screenshots
+### Step 1
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-1.png)
+### Step 2
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-2.png)
+### Step 3
+![](https://www.gegabyte.org/subdomains/projects/imgs_on_github/fb_reel-3.png)
