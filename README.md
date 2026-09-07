@@ -18,10 +18,10 @@ Sometimes when you are going through the Facebook reels an interesting reel come
 - Copy the script from Github, you can save the script on your system.
 - Open **Console** tab and paste the script and press <kbd>enter</kbd>.
 - You will see a prompt on the page enter the URL of the **Reel** that you were watching e,g. **https://www.facebook.com/reel/1866144357203537** and Press <kbd>enter</kbd>.
-- The script will start seraching for it and display message in **Console** <br> "**REEL NOT FOUND - SCROLLING FOR MORE**", see **Step 1** image.
-- Once the **Reel** is found <br> "**REEL FOUND!**" message will be displayed in the "Console", see **Step 2** image.
+- The script will start seraching for it and display message in **Console** "**REEL NOT FOUND - SCROLLING FOR MORE**", see **Step 1** image.
+- Once the **Reel** is found "**REEL FOUND!**" message will be displayed in the "Console", see **Step 2** image.
 - On the page it will show the **Reel** with a thick blue border around the **Reel**, see **Step 3** image.
-- If for some reasons **Reel** is not found <br> "**SORRY REEL NOT FOUND!**" message will be displayed in the "Console", see **Step 4** image.
+- If for some reasons **Reel** is not found "**SORRY REEL NOT FOUND!**" message will be displayed in the "Console", see **Step 4** image.
 
 ## Screenshots
 ### Step 1
